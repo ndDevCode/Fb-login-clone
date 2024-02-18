@@ -25,7 +25,7 @@ function LoginForm() {
             <label for="floatingPassword">Password</label>
           </div>
           <button
-            className="btn btn-primary w-100 py-2 fw-bold fs-5 mb-2"
+            className="btn btn-primary w-100 py-2 fw-bold fs-6 mb-2"
             type="submit"
           >
             Log in
@@ -37,7 +37,7 @@ function LoginForm() {
           </div>
           <hr />
           <button
-            className="btn btn-success w-100 py-2 w-50 fw-bold fs-5"
+            className="btn btn-success w-75 py-2 px-0 fw-bold fs-6"
             type="submit"
           >
             Create new account
